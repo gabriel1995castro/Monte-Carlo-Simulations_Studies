@@ -31,19 +31,9 @@ Points outside the circle (red)
 Reference circle and square
 
 ## Simulations Results
-<div align="center">
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="./100_simulations.png" width="100" alt="Results of 100 Simulations">
-    <p>Results of 100 Simulations</p>
-  </div><div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="./10000_simulations.png" width="100" alt="Results of 10000 Simulations">
-    <p>Results of 10000 Simulations</p>
-  </div><div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="./1000000_simulations.png" width="100" alt="Results of 1000000 Simulations">
-    <p>Results of 1000000 Simulations</p>
-  </div>
-</div>
-
+| 100 Simulações | 10000 Simulações | 1000000 Simulações |
+|--------------------|--------------------|------------------------|
+| ![](./100_simulations.png) | ![](./10000_simulations.png) | ![](./1000000_simulations.png) |
 ## Execution
 
 Run the script:
