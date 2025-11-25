@@ -31,9 +31,15 @@ Points outside the circle (red)
 Reference circle and square
 
 ## Simulations Results
-| 100 Simulações | 10000 Simulações | 1000000 Simulações |
-|--------------------|--------------------|------------------------|
-| ![](./100_simulations.png) | ![](./10000_simulations.png) | ![](./1000000_simulations.png) |
+
+| 100 Simulações | 10000 Simulações 
+|--------------------|--------------------|
+| ![](./100_simulations.png) | ![](./10000_simulations.png) |
+
+| 1000000 Simulações |
+|--------------------|
+| ![](./1000000_simulations.png) |
+
 ## Execution
 
 Run the script:
