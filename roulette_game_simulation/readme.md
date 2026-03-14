@@ -35,20 +35,11 @@ The script will:
 
 | Multiple Trajectories (Cloud) |
 |-----------------------------|
-| ![](./100_simulations.png)  |
+| ![](./Multiple_trajectories.png)  |
 
 | Final Distribution (100 Players) |
 |------------------------------|
-| ![](./10000_simulations.png) |
+| ![](./FinalDistribution.png) |
 
-| 1000000 Simulações |
-|--------------------|
-| ![](./1000000_simulations.png) |
 
-## Execution
-
-Run the script:
-
-```bash
-python pi_estimation.py
 
