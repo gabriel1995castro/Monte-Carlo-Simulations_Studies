@@ -39,7 +39,7 @@ The script will:
 
 | Final Distribution (100 Players) |
 |------------------------------|
-| ![](./FinalDistribution.png) |
+| ![](./Final_Distribution.png) |
 
 
 
